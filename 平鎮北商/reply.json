@@ -2,5 +2,11 @@
 {
   "type": "text",
   "text": "那邊很荒涼，沒有東西可以吃，但能曬太陽。"
+},
+{
+  "type": "image",
+  "originalContentUrl": "https://imgur.com/nGwtR0g",
+  "previewImageUrl": "https://imgur.com/nGwtR0g",
+  "animated": false
 }
 ]
